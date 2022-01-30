@@ -1,100 +1,70 @@
-# React Phase 2 Project: Sneaker Marketplace (Aimé Leon Dore)
+# Getting Started with Create React App
 
-## Demo
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Use this video as an example of how the app should work.
+## Available Scripts
 
-![Demo Video]
+In the project directory, you can run:
 
-## Setup
+### `npm start`
 
-1. Run `npm install && npm start` in your terminal on port `3000`.
-2. In a new terminal run `json-server --watch db.json --port 3004`. This will run your backend on port `3004`.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Make sure to open [http://localhost:3004/products](http://localhost:3004/products)
-in the browser to verify that your backend is working before you proceed!
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-## Endpoints
+### `npm test`
 
-The base URL for your backend is: `http://localhost:3004`
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Core Features
+### `npm run build`
 
-As a user:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. When the app starts, you can see the home entry page.
-2. You can navigate to enter the website where you either buy sneakers by adding it to the cart. or sell sneakers
-3. You can sell sneakers by adding data to a form with product name, price and an image of the shoe.
-4. Once you have added items to your cart you you can manage the items you are buying from there.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Endpoints for Core Deliverables
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#### GET /plants
+### `npm run eject`
 
-Example Response:
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-```json
-[
-  {
-    "id": 1,
-    "name": "Yeezy Boost 350 V2 'Light'",
-    "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/059/716/163/original/750230_01.jpg.jpeg?1630432651",
-    "quantity": 0,
-    "price": 249,
-    "description": "SKU: GY3438",
-    "details": "The adidas Yeezy Boost 350 V2 ‘Light’ updates the minimalist sneaker with UV-sensitive technology, a first for Kanye West’s lifestyle imprint. Under artificial light, the Primeknit upper projects a subtle ivory finish. Exposure to direct sunlight yields soft pink coloring throughout the knit build, while the monofilament side stripe darkens to an amber hue. The color-shifting assembly is supported by a standard rubber-wrapped Boost midsole.",
-    "likes": 62355
-  },
-  {
-    "id": 2,
-    "name": "Dunk Low 'NY vs NY'",
-    "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/057/951/215/original/767017_01.jpg.jpeg?1627398246",
-    "quantity": 1,
-    "price": 263,
-    "description": "SKU: DN2489 300",
-    "details": "Tapping into the shoe’s basketball roots, the Nike Dunk Low ‘NY vs NY’ celebrates the summertime streetball tournament showcasing some of New York City’s best high school hoopers. The leather upper pairs a dark green base with contrasting white overlays at the forefoot and heel. A gradient blend of red and orange is applied to the signature Swoosh and Nike-branded tongue tag. ‘NY vs NY’ is embroidered on the lateral heel, while the translucent rubber outsole lists each league and its corresponding park, including Dyckman, West 4th and Lincoln.",
-    "likes": 301298
-  }
-]
-```
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-#### POST `/plants`
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Required Headers:
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-```js
-{
-  "Content-Type": "application/json"
-}
-```
+## Learn More
 
-Request Object:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```json
-{
-  "name": "string",
-  "image": "string",
-  "quantity": number,
-  "price" : number,
-  "description" : "string",
-  "details" : "string",
-  "likes" : number
-}
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Example Response:
+### Code Splitting
 
-```json
-{
-  "id": 1,
-  "name": "Yeezy Boost 350 V2 'Light'",
-  "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/059/716/163/original/750230_01.jpg.jpeg?1630432651",
-  "quantity": 0,
-  "price": 249,
-  "description": "SKU: GY3438",
-  "details": "The adidas Yeezy Boost 350 V2 ‘Light’ updates the minimalist sneaker with UV-sensitive technology, a first for Kanye West’s lifestyle imprint. Under artificial light, the Primeknit upper projects a subtle ivory finish. Exposure to direct sunlight yields soft pink coloring throughout the knit build, while the monofilament side stripe darkens to an amber hue. The color-shifting assembly is supported by a standard rubber-wrapped Boost midsole.",
-  "likes": 62355
-}
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Have fun exploring the single page application!
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
