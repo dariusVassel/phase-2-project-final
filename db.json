@@ -1,0 +1,191 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Yeezy Boost 350 V2 'Light'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/059/716/163/original/750230_01.jpg.jpeg?1630432651",
+      "quantity": 0,
+      "price": "$249",
+      "description": "SKU: GY3438",
+      "details": "The adidas Yeezy Boost 350 V2 ‘Light’ updates the minimalist sneaker with UV-sensitive technology, a first for Kanye West’s lifestyle imprint. Under artificial light, the Primeknit upper projects a subtle ivory finish. Exposure to direct sunlight yields soft pink coloring throughout the knit build, while the monofilament side stripe darkens to an amber hue. The color-shifting assembly is supported by a standard rubber-wrapped Boost midsole."
+    },
+    {
+      "id": 2,
+      "name": "Dunk Low 'NY vs NY'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/057/951/215/original/767017_01.jpg.jpeg?1627398246",
+      "quantity": 0,
+      "price": "$263",
+      "description": "SKU: DN2489 300",
+      "details": "Tapping into the shoe’s basketball roots, the Nike Dunk Low ‘NY vs NY’ celebrates the summertime streetball tournament showcasing some of New York City’s best high school hoopers. The leather upper pairs a dark green base with contrasting white overlays at the forefoot and heel. A gradient blend of red and orange is applied to the signature Swoosh and Nike-branded tongue tag. ‘NY vs NY’ is embroidered on the lateral heel, while the translucent rubber outsole lists each league and its corresponding park, including Dyckman, West 4th and Lincoln."
+    },
+    {
+      "id": 3,
+      "name": "Undefeated x Air Force 1 Low SP 'Dunk vs AF1'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_pictures/images/059/801/867/original/GW1934.png.png",
+      "quantity": 0,
+      "price": "$188",
+      "description": "SKU: GW1934",
+      "details": "The 2021 re-release of the adidas Yeezy Slide ‘Pure’ brings back a refined colorway of the comfortable slip-on just months following its original release. The unibody build is constructed from injected EVA foam and rendered in a monochromatic ecru finish. Exterior branding is limited to adidas’ Three Stripes logo debossed on the soft top layer of the footbed. The sandal is undergirded by an exaggerated sawtooth outsole, featuring strategically placed grooves for a blend of traction and cushioning."
+    },
+    {
+      "id": 4,
+      "name": "Undefeated x Air Force 1 Low SP 'Dunk vs AF1''",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/059/708/444/original/782122_01.jpg.jpeg?1630422214",
+      "quantity": 0,
+      "price": "$164",
+      "description": "SKU: DM8462 400",
+      "details": "Taken from the third installment of the LA retailer’s ‘Dunk vs AF-1’ series, the Undefeated x Air Force 1 Low SP makes use of a mixed material build that draws inspiration from the prevailing sneaker aesthetic of the ‘90s and 2000s. The sneaker’s lateral side features a yellow canvas quarter panel with a white patent leather Swoosh, while the opposite side pairs a yellow canvas Swoosh with a white leather base. Additional details include croc-embossed blue leather overlays and a color-matched exposed foam nylon tongue. Undefeated’s Five Strikes branding adorns the lateral heel and woven tongue tag. The sneaker rides on a cream-hued rubber cupsole with encapsulated Air-sole cushioning."
+    },
+    {
+      "id": 5,
+      "name": "Dunk Low 'Michigan' 2021",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/053/600/419/original/719955_01.jpg.jpeg?1619103827",
+      "quantity": 0,
+      "price": "$217",
+      "description": "SKU: DD1391 700",
+      "details": "The 2021 Nike Dunk Low 'Michigan' offers a low-top version of one of the silhouette's original 'Be True to Your School' colorways, first released in 1985 and previously retroed in 2020. The all-leather upper arrives in a rich Varsity Maize hue with contrasting Midnight Navy accents on the Swoosh and forefoot and heel overlay. A low-cut collar and breathable nylon tongue bearing traditional Nike branding ensure padded comfort."
+    },
+    {
+      "id": 6,
+      "name": "Air Force 1 '07 'Triple White'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/048/340/059/original/712867_01.jpg.jpeg?1609871264",
+      "quantity": 0,
+      "price": "$99",
+      "description": "SKU: CW2288 111",
+      "details": "Tapping into the shoe’s basketball roots, the Nike Air Force 1 '07 'Triple White' celebrates the summertime streetball tournament showcasing some of New York City’s best high school hoopers. The leather upper pairs a dark green base with contrasting white overlays at the forefoot and heel. A gradient blend of red and orange is applied to the signature Swoosh and Nike-branded tongue tag. ‘NY vs NY’ is embroidered on the lateral heel, while the translucent rubber outsole lists each league and its corresponding park, including Dyckman, West 4th and Lincoln."
+    },
+    {
+      "id": 7,
+      "name": "Yeezy Boost 350 V2 'Cream White / Triple White'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/014/822/692/original/116662_01.jpg.jpeg?1537556579",
+      "quantity": 0,
+      "price": "$302",
+      "description": "SKU: CP9366",
+      "details": "First released on April 29, 2017, the Yeezy Boost 350 V2 ‘Cream White’ combines a cream Primeknit upper with tonal cream SPLY 350 branding, and a translucent white midsole housing full-length Boost. Released again in October 2018, this retro helped fulfill Kanye West’s oft-repeated ‘YEEZYs for everyone’ Twitter mantra, as adidas organized the biggest drop in Yeezy history by promising pre-sale to anyone who signed up on the website. Similar to the first release, the ‘Triple White’ 2018 model features a Primeknit upper, a Boost midsole and custom adidas and Yeezy co-branding on the insole."
+    },
+    {
+      "id": 8,
+      "name": "Undefeated x Dunk Low SP 'Canteen'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/056/408/241/original/773882_01.jpg.jpeg?1624469464",
+      "quantity": 0,
+      "price": "$210",
+      "description": "SKU: DH3061 200",
+      "details": "Drawn from the crossover ‘Dunk vs. AF-1’ pack, the Undefeated x Nike Dunk Low ‘Canteen’ features a familiar design that recalls the ‘InsideOut Priority’ Air Force 1 collaboration from 2006. Varying shades of brown are applied to the upper, composed of smooth leather and patterned textile. Tonal leather piping surrounding the eyestay and forefoot overlay, while a bright yellow Swoosh cuts across the midfoot. Unlike its predecessor, this pair removes the printed midsole graphic that reads ‘On Your Feet Kid,’ and adds an embroidered Five Strikes logo on the lateral heel. Undefeated’s signature emblem is repeated on the woven tongue tag."
+    },
+    {
+      "id": 9,
+      "name": "Air Jordan 6 Retro 'Bordeaux'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/059/514/742/original/786346_01.jpg.jpeg?1630069381",
+      "quantity": 0,
+      "price": "$259",
+      "description": "SKU: CT8529 063",
+      "details": "The Air Jordan 6 Retro ‘Bordeaux’ takes on a familiar color scheme tied to the shoe’s successor, the Air Jordan 7. Soft nubuck construction is utilized on the upper, featuring a neutral grey base with contrasting black overlays. The translucent tongue features a multicolor print that replicates the look of the AJ7’s neoprene tongue, while Bordeaux accents land on the throat and molded heel tab. Lightweight cushioning arrives via the visible Air-sole unit nestled in the heel of a grey and black polyurethane midsole."
+    },
+    {
+      "id": 10,
+      "name": "Air Jordan 1 High Retro OG 'Pollen'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/057/773/122/original/702994_01.jpg.jpeg?1627048780",
+      "quantity": 0,
+      "price": "$172",
+      "description": "SKU: 555088 701",
+      "details": "The Air Jordan 1 High Retro OG ‘Pollen’ showcases color blocking that mirrors another basketball silhouette released back in 1985. Recalling the OG ‘Iowa’ Dunk colorway, the leather upper pairs a solid black base with contrasting overlays in Pollen yellow. Traditional branding elements include a Jordan Wings logo imprinted on the lateral collar flap and a woven Nike tag atop the nylon tongue. The high-top rides on a standard rubber cupsole, enhanced with a polyurethane wedge and encapsulated Air-sole cushioning under the heel."
+    },
+    {
+      "id": 11,
+      "name": "Undefeated x Air Force 1 Low SP 'Dunk vs AF1'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_pictures/images/059/801/867/original/GW1934.png.png",
+      "quantity": 0,
+      "price": "$188",
+      "description": "SKU: GW1934",
+      "details": "The 2021 re-release of the adidas Yeezy Slide ‘Pure’ brings back a refined colorway of the comfortable slip-on just months following its original release. The unibody build is constructed from injected EVA foam and rendered in a monochromatic ecru finish. Exterior branding is limited to adidas’ Three Stripes logo debossed on the soft top layer of the footbed. The sandal is undergirded by an exaggerated sawtooth outsole, featuring strategically placed grooves for a blend of traction and cushioning."
+    },
+    {
+      "id": 12,
+      "name": "Yeezy 500 'Utility Black'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/012/750/783/original/315071_01.jpg.jpeg?1529434920",
+      "quantity": 0,
+      "price": "$300",
+      "description": "SKU: F36640",
+      "details": "Kanye West and adidas launched the Yeezy 500 ‘Utility Black’ in July 2018. The retro-inspired silhouette counterbalances its bulky form with a sleek, all-black design. What sets this colorway apart from the standard triple-black finish is a singular use of tone – it’s a semi-faded black that coats the combination mesh and suede upper, as opposed to the pitch-black variety that’s more common in the sneaker firmament."
+    },
+    {
+      "id": 13,
+      "name": "Dunk Low 'Michigan' 2021",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/053/600/419/original/719955_01.jpg.jpeg?1619103827",
+      "quantity": 0,
+      "price": "$217",
+      "description": "SKU: DD1391 700",
+      "details": "The 2021 Nike Dunk Low 'Michigan' offers a low-top version of one of the silhouette's original 'Be True to Your School' colorways, first released in 1985 and previously retroed in 2020. The all-leather upper arrives in a rich Varsity Maize hue with contrasting Midnight Navy accents on the Swoosh and forefoot and heel overlay. A low-cut collar and breathable nylon tongue bearing traditional Nike branding ensure padded comfort."
+    },
+    {
+      "id": 14,
+      "name": "Air Force 1 '07 'Triple White'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/048/340/059/original/712867_01.jpg.jpeg?1609871264",
+      "quantity": 0,
+      "price": "$99",
+      "description": "SKU: CW2288 111",
+      "details": "Tapping into the shoe’s basketball roots, the Nike Air Force 1 '07 'Triple White' celebrates the summertime streetball tournament showcasing some of New York City’s best high school hoopers. The leather upper pairs a dark green base with contrasting white overlays at the forefoot and heel. A gradient blend of red and orange is applied to the signature Swoosh and Nike-branded tongue tag. ‘NY vs NY’ is embroidered on the lateral heel, while the translucent rubber outsole lists each league and its corresponding park, including Dyckman, West 4th and Lincoln."
+    },
+    {
+      "id": 15,
+      "name": "Yeezy Boost 350 V2 'Cream White / Triple White'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/014/822/692/original/116662_01.jpg.jpeg?1537556579",
+      "quantity": 0,
+      "price": "$302",
+      "description": "SKU: CP9366",
+      "details": "First released on April 29, 2017, the Yeezy Boost 350 V2 ‘Cream White’ combines a cream Primeknit upper with tonal cream SPLY 350 branding, and a translucent white midsole housing full-length Boost. Released again in October 2018, this retro helped fulfill Kanye West’s oft-repeated ‘YEEZYs for everyone’ Twitter mantra, as adidas organized the biggest drop in Yeezy history by promising pre-sale to anyone who signed up on the website. Similar to the first release, the ‘Triple White’ 2018 model features a Primeknit upper, a Boost midsole and custom adidas and Yeezy co-branding on the insole."
+    },
+    {
+      "id": 16,
+      "name": "Undefeated x Dunk Low SP 'Canteen'",
+      "image": "https://image.goat.com/crop/1000/attachments/product_template_additional_pictures/images/056/408/241/original/773882_01.jpg.jpeg?1624469464",
+      "quantity": 0,
+      "price": "$210",
+      "description": "SKU: DH3061 200",
+      "details": "Drawn from the crossover ‘Dunk vs. AF-1’ pack, the Undefeated x Nike Dunk Low ‘Canteen’ features a familiar design that recalls the ‘InsideOut Priority’ Air Force 1 collaboration from 2006. Varying shades of brown are applied to the upper, composed of smooth leather and patterned textile. Tonal leather piping surrounding the eyestay and forefoot overlay, while a bright yellow Swoosh cuts across the midfoot. Unlike its predecessor, this pair removes the printed midsole graphic that reads ‘On Your Feet Kid,’ and adds an embroidered Five Strikes logo on the lateral heel. Undefeated’s signature emblem is repeated on the woven tongue tag."
+    },
+    [
+      {
+        "name": "Air Max",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1626366605-3023021-100-default-1626366466.jpg",
+        "quantity": 0,
+        "price": "4000",
+        "description": "SKU: 100",
+        "details": "new soft shoe",
+        "likes": 0
+      }
+    ],
+    [
+      {
+        "name": "Trial Air Zoom 2",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1626366605-3023021-100-default-1626366466.jpg",
+        "quantity": 0,
+        "price": "$ 330",
+        "description": "SKU: 100",
+        "details": "new shoes",
+        "likes": 0
+      }
+    ],
+    [
+      {
+        "name": "Attempt 2",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1626366605-3023021-100-default-1626366466.jpg",
+        "quantity": 0,
+        "price": "550",
+        "description": "SKU: 100",
+        "details": "comfort metcon",
+        "likes": 0
+      }
+    ],
+    {
+      "name": "Attempt 3",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1626366605-3023021-100-default-1626366466.jpg",
+      "quantity": 0,
+      "price": "321",
+      "description": "SKU: 100",
+      "details": "new soft shoe",
+      "likes": 0,
+      "id": 20
+    }
+  ]
+}
