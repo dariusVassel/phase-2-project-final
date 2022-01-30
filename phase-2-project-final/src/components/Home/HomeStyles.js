@@ -1,7 +1,7 @@
 import React from 'react';
 
-function CartCard() {
+function HomeStyles() {
   return <div></div>;
 }
 
-export default CartCard;
+export default HomeStyles;
