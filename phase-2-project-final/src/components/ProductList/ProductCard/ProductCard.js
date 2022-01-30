@@ -1,7 +1,7 @@
 import React from 'react';
 
-function ProductList() {
+function ProductCard() {
   return <div></div>;
 }
 
-export default ProductList;
+export default ProductCard;
