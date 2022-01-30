@@ -1,7 +1,18 @@
-import React from 'react';
+import { makeStyles } from '@material-ui/core/styles';
 
-function CartCardStyles() {
-  return <div></div>;
-}
-
-export default CartCardStyles;
+export default makeStyles(() => ({
+    media: {
+        height: 260,
+    },
+    cardContent: {
+        display: 'flex',
+        justifyContent: 'space-between',
+    },
+    cartActions: {
+        justifyContent: 'space-between',
+    },
+    buttons: {
+        display: 'flex',
+        alignItems: 'center',
+    },
+}));
