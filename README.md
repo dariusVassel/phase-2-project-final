@@ -8,7 +8,7 @@ Use this video as an example of how the app should work.
 
 ## Setup
 
-1. Run `npm install && npm start` in your terminal on port `3001`.
+1. Run `npm install && npm start` in your terminal on port `3000`.
 2. In a new terminal run `json-server --watch db.json --port 3004`. This will run your backend on port `3004`.
 
 Make sure to open [http://localhost:3004/products](http://localhost:3004/products)
