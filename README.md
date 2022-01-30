@@ -4,7 +4,7 @@
 
 Use this video as an example of how the app should work.
 
-![Demo Video](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-mock-code-challenge-plantshop/plantsy_demo.gif)
+![Demo Video]
 
 ## Setup
 
