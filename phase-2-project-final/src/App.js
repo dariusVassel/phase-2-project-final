@@ -4,7 +4,7 @@ import NavBar from './components/NavBar/NavBar';
 import Home from "./components/Home/Home"
 import ProductList from './components/ProductList/ProductList';
 import Cart from '../src/components/Cart/Cart'
-import { Route, Switch, } from 'react-router-dom'
+import { Route, Routes, } from 'react-router-dom'
 import ProductForm from './components/ProductList/ProductForm';
 
 
@@ -199,7 +199,7 @@ function App() {
   return (
     <div className="App">
       {/* <NavBar cartItems={cartItems} toggleForm={toggleForm} uploadFormView={uploadFormView}/> */}
-      <Switch>
+      <Routes>
         <Route exact path='/'>
           <Home uploadFormView={uploadFormView}/>
         </Route>
@@ -211,7 +211,7 @@ function App() {
         <NavBar cartItems={cartItems} toggleForm={toggleForm} uploadFormView={uploadFormView}/>
           <Cart products = {products} onCartAdd ={onCartAdd} onCartRemove={onCartRemove} onCartRemoveAll={onCartRemoveAll} />
         </Route>
-      </Switch> 
+      </Routes> 
     </div>
   );
 }
