@@ -10,4 +10,12 @@ export default makeStyles((theme) => ({
     root: {
         flexGrow: 1,
     },
+    filter : {
+        flexGrow: 1,
+        alignItems: 'center',
+        display: 'flex',
+        textDecoration: 'none',
+        marginRight : '000000px',
+        paddingBottom: '40px'
+    }
 }));
